@@ -1,7 +1,7 @@
 # nglsrc
 
 This repo contains:
-- Every Fake/random messages localization 
+- Every localization
 - main.js file (NO OBF, NO MINIFIED, UNMODIFIED)
   
 
