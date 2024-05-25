@@ -1,0 +1,354 @@
+{
+    "FACEBOOK.REPLY.OPEN": "افتح فيسبوك",
+    "FACEBOOK.REPLY.STEP2": "الخطوة 2: قم بالتحميل والرد على فيسبوك!",
+    "FAKE_QUESTIONS.A_SECRET_YOU_KEPT_FROM_YOUR_PARENTS_2": "سر أخفيته عن والديك 👀",
+    "FAKE_QUESTIONS.AINT_NO_WAY": "مستحيل",
+    "FAKE_QUESTIONS.ANY_PETS": "هل تربي أي حيوانات أليفة؟",
+    "FAKE_QUESTIONS.ARE_YOU_A_BACK_SEAT_DRIVER": "هل تسبب إزعاجاً لمن يتول أمر ما أنت غير مسؤول عنه؟",
+    "FAKE_QUESTIONS.ARE_YOU_CLOSE_WITH_YOUR_PARENTS": "هل علاقتك قوية بوالديك؟",
+    "FAKE_QUESTIONS.ARE_YOU_GONNA_GET_A_TAT": "هل سترسم وشماً",
+    "FAKE_QUESTIONS.ARE_YOU_JUDGEMENTAL": "هل تطلق أحكاماً على الناس",
+    "FAKE_QUESTIONS.ARE_YOU_LOOKING_TO_DATE_SOMEONE_RN": "هل تتطلع إلى مواعدة شخص ما في الوقت الحالي",
+    "FAKE_QUESTIONS.ARE_YOU_STRAIGHT": "هل أنت مغاير الجنس (تهتم بالجنس الآخر)؟",
+    "FAKE_QUESTIONS.ARE_YOU_TALKING_TO_ANYONE": "هل أنت في علاقة؟",
+    "FAKE_QUESTIONS.AVE_YOU_EVER_BEEN_FIRED_FROM_A_JOB": "هل سبق لك أن طردت من عملك؟",
+    "FAKE_QUESTIONS.AVORITE_MOVIE_TV_SERIES_RN": "فيلمك المفضل/مسلسلك التلفزيوني المفضل في الوقت الحالي",
+    "FAKE_QUESTIONS.BIGGEST_RED_FLAGS_IN_A_GUY": "ما أقوى الإشارات التحذيرية في سلوك الرجل؟",
+    "FAKE_QUESTIONS.BIGGEST_REGRET": "ما أكثر ما تندم عليه؟",
+    "FAKE_QUESTIONS.BODY_COUNT": "كم عدد علاقاتك السابقة 😳؟",
+    "FAKE_QUESTIONS.CAN_WE_BE_BESTIES": "هل يمكن أن نصبح صدقين مقربين؟",
+    "FAKE_QUESTIONS.CRAZIEST_PICKUP_LINE_THAT_WORKED": "ما أكثر مقولة جنوناً حاولت بها لفت نظر أحدهم/ن ونجحت؟",
+    "FAKE_QUESTIONS.DID_YOU_HAVE_AN_IMAGINARY_FRIEND": "هل لديك صديق وهمي؟",
+    "FAKE_QUESTIONS.DID_YOU_WATCH_GAME_OF_THRONES": "هل شاهدت مسلسل \"صراع العروش\"؟",
+    "FAKE_QUESTIONS.DO_U_HAVE_A_DOG": "هل تملك كلباً؟",
+    "FAKE_QUESTIONS.DO_YOU_EVEN_LIKE_SCHOOL": "هل تحب المدرسة؟",
+    "FAKE_QUESTIONS.DO_YOU_HAVE_A_MIDDLE_NAME": "ما اسمك الأوسط؟",
+    "FAKE_QUESTIONS.DO_YOU_HAVE_ANY_CUTE_FRIENDS_FOR_ME_LMAO": "هل يمكنك ترشيح صديق/صديقة لطيفة لي (ضحك شديد)",
+    "FAKE_QUESTIONS.DO_YOU_HAVE_ANY_PIERCINGS": "هل لديك أي ثقوب في جسدك (بيرسنج)؟",
+    "FAKE_QUESTIONS.DO_YOU_HAVE_TRUST_ISSUES": "هل تعاني مشاكل ثقة؟",
+    "FAKE_QUESTIONS.DO_YOU_LOVE_UR_LIFE_X": "هل تحب حياتك؟ x",
+    "FAKE_QUESTIONS.DO_YOU_MEDITATE": "هل تتأمل؟",
+    "FAKE_QUESTIONS.DO_YOU_SNORE": "هل تشخّر؟",
+    "FAKE_QUESTIONS.DO_YOU_SPEAK_ANOTHER_LANGUAGE": "هل تجيد لغة أخرى؟",
+    "FAKE_QUESTIONS.DO_YOU_WANT_KIDS_EVENUTALLY": "هل تود إنجاب أطفال مستقبلاً؟",
+    "FAKE_QUESTIONS.DOGS_OR_CATS": "هل تفضل الكلاب أم القطط؟",
+    "FAKE_QUESTIONS.DONT_LEAVE_ME_ON_OPENED": "لا تتركني دون رد بعد أن ترى رسالتي",
+    "FAKE_QUESTIONS.DREAM_JOB": "ما وظيفة أحلامك؟",
+    "FAKE_QUESTIONS.EVER_GONE_SKINNY_DIPPING": "هل جرب السباحة عارياً؟",
+    "FAKE_QUESTIONS.EVERYTHING_OK": "هل كل الأمور على ما يرام؟",
+    "FAKE_QUESTIONS.FAVORITE_FOOD": "ما طعامك المفضل؟",
+    "FAKE_QUESTIONS.FAVORITE_MOVIE": "ما فيلمك المفضل؟",
+    "FAKE_QUESTIONS.FAVORITE_SHOW_RN": "ما برنامجك التلفزيوني المفضل في الوقت الحالي؟",
+    "FAKE_QUESTIONS.HAT_IS_YOUR_SHOE_SIZE": "ما مقاس حذائك؟",
+    "FAKE_QUESTIONS.HATS_UR_FAV_BRAND_<3": "ما علامتك التجارية المفضلة؟؟",
+    "FAKE_QUESTIONS.HAVE_A_CRUSH_ON_YOU": "أنا معجب/معجبة بك",
+    "FAKE_QUESTIONS.HAVE_ANY_NETFLIX_RECOMENDATIONS": "هل تود ترشيح أحد عروض نتفلكس؟؟",
+    "FAKE_QUESTIONS.HAVE_ANY_NETLIX_RECOMENDATIONS": "هل تود ترشيح أحد عروض نتفلكس؟",
+    "FAKE_QUESTIONS.HAVE_COVID_ANY_SHOW_RECOMENDATIONS": "أعاني كوفيد، هلا رشحت لي أحد البرامج التلفزيونية؟",
+    "FAKE_QUESTIONS.HAVE_U_SEEN_BREAKING_BAD": "هل شاهدت مسلسل \"بيركنج باد\"",
+    "FAKE_QUESTIONS.HAVE_YOU_DONE_DRUGS": "هل تعاطيت المخدرات 🍃",
+    "FAKE_QUESTIONS.HAVE_YOU_EVER_CHEATED_YOU_GOTTA_BE_HONEST_LOL": "هل خنت من قبل، يجب أن تكون صادقاً (ضحك)",
+    "FAKE_QUESTIONS.HAVE_YOU_EVER_CRIED_DURING_A_MOVIE": "هل سبق أن بكيت أثناء مشاهدتك فيلم 🤷",
+    "FAKE_QUESTIONS.HAVE_YOU_EVER_GIVEN_A_HICKEY": "هل سبق أن قبّلك أحد وترك علامة كالعضة؟",
+    "FAKE_QUESTIONS.HAVE_YOU_EVER_GOTTEN_IN_A_FIST_FIGHT": "هل سبق أن دخلت في عراك بالأيدي؟",
+    "FAKE_QUESTIONS.HAVE_YOU_EVER_HAD_ANY_SURGERY": "هل سبق أن أجريت أي عملية جراحية",
+    "FAKE_QUESTIONS.HAVE_YOU_EVER_WATCHED_HARRY_POTTER": "هل شاهدت هاري بوتر؟",
+    "FAKE_QUESTIONS.HE_WEIRDEST_TREND_YOUVE_DONE": "أغرب موضة اتبعتها",
+    "FAKE_QUESTIONS.HOTTEST_SPORT": "ما أكثر الرياضات إثارة؟ 🥵",
+    "FAKE_QUESTIONS.HOW_ARE_YOU_FEELING_TODAY": "كيف حالك اليوم :)",
+    "FAKE_QUESTIONS.HOW_ARE_YOU_TODAY": "كيف حالك اليوم ❤️‍🩹",
+    "FAKE_QUESTIONS.HOW_BIG_OF_NERD_ARE_YOU_1_TO_10": "ما تقيمك كطالب متفان في المذاكرة من 1 إلى 10",
+    "FAKE_QUESTIONS.HOW_MANY_EXES_DO_YOU_HAVE": "كم عدد علاقاتك السابقة؟",
+    "FAKE_QUESTIONS.HOW_MANY_HOURS_OF_SLEEP_YOU_GET_LAST_NIGHT": "كم ساعة نمت الليلة الماضية؟",
+    "FAKE_QUESTIONS.HOW_MANY_KIDS_DO_YOU_WANT_TO_HAVE": "ما عدد الأولاد الذين تود أن ترزق بهم",
+    "FAKE_QUESTIONS.HOW_MANY_SELFIES_DO_YOU_TAKE_A_DAY": "كم عدد صور السيلفي التي تصورها يومياً؟",
+    "FAKE_QUESTIONS.HOW_MANY_STUFFED_ANIMALS_YOU_OWN": "كم عدد الحيوانات المحنطة التي تمتلكها؟",
+    "FAKE_QUESTIONS.HOW_OLD_ARE_YOU_AGAIN": "كم عمرك مرة أخرى؟",
+    "FAKE_QUESTIONS.HOW_OLD_DO_U_WANNA_BE_WHE_U_GET_MARRIED": "ما العمر الذي تود الزواج عندما تبلغه؟",
+    "FAKE_QUESTIONS.HOW_TALL_ARE_U": "ما طولك",
+    "FAKE_QUESTIONS.HOW_TALL_ARE_YOU": "ما طولك؟؟",
+    "FAKE_QUESTIONS.HOW_TALL_R_U": "ما طولك",
+    "FAKE_QUESTIONS.I_LOVE_UUUUUU": "أحبك كثيراً!!",
+    "FAKE_QUESTIONS.I_MISS_YOU": "أفتقدك",
+    "FAKE_QUESTIONS.I_REALLY_LIKE_YOU": "إنني معجب للغاية بك",
+    "FAKE_QUESTIONS.IGGEST_RED_FLAGS_FOR_A_GIRL": "ما أقوى الإشارات التحذيرية في سلوك الأنثى؟",
+    "FAKE_QUESTIONS.INTROVERT_OR_EXTROVERT": "هل أنت انطوائي أم منفتح؟",
+    "FAKE_QUESTIONS.IS_IT_TRUE": "هل هذا صحيح؟؟؟",
+    "FAKE_QUESTIONS.IS_NGL_THE_BEST_APP_THO": "هل تطبيق ngl أفضل تطبيق :)",
+    "FAKE_QUESTIONS.KNOW_WHAT_YOU_DID": "أعلم ما فعلت",
+    "FAKE_QUESTIONS.NAME_ALL_YOUR_EXES": "اذكر جميع أسماء من كنت في علاقة معهم/معهن",
+    "FAKE_QUESTIONS.NETFLIX_AND_CHILL": "هل تود الاستمتاع بمشاهدة نتفلكس والاسترخاء؟ 👀",
+    "FAKE_QUESTIONS.NOT_GONNA_JUDGE_BUT_WHY": "لن أطلق عليك حكماً ولكن ما السبب...",
+    "FAKE_QUESTIONS.ONE_FRIEND_UR_THANKFUL_FOR": "صديق واحد ممتن لك...",
+    "FAKE_QUESTIONS.ONE_THING_YOU_CANT_SURVIVE_WITHOUT": "شيء واحد لا يمكنك العيش دونه؟",
+    "FAKE_QUESTIONS.OPINION_ON_BIRDS": "ما رأيك في الطيور؟",
+    "FAKE_QUESTIONS.OUR_BIGGEST_FEAR": "ما أكبر مخاوفك؟",
+    "FAKE_QUESTIONS.OWS_YOU_DAY_GOING": "كيف يومك؟؟!",
+    "FAKE_QUESTIONS.PERSONALITY_OR_LOOKS": "هل تهتم بالشخصية أم المظهر؟",
+    "FAKE_QUESTIONS.PLEASE_GIVE_ME_PICKUP_LINES_THAT_ALWAYS_WORK": "من فضلك أطلعني على مقولات تستخدمها للفت انتباه أحدهم/ن وتنجح دائماً",
+    "FAKE_QUESTIONS.SHOULD_I_BE_HONEST_WITH_YOU_ON_HERE": "هل يجب أن أصدقك القول هنا؟",
+    "FAKE_QUESTIONS.SHOUT_ME_OUT": "ناد عليّ",
+    "FAKE_QUESTIONS.SINGLE": "هل أنت غير مرتبط/ة؟",
+    "FAKE_QUESTIONS.SNAP": "هل تستخدم برنامج سناب شات؟",
+    "FAKE_QUESTIONS.SPILL_SOME_TEA": "أطلعني على سر",
+    "FAKE_QUESTIONS.SPILL_THE_TEA_ON_YOUR_FIRST_KISS": "أطلعني على سر تخفيه بشأن أول قبلة لك.",
+    "FAKE_QUESTIONS.TELL_ME_A_FUNNY_JOKE": "قل لي نكتة مضحكة",
+    "FAKE_QUESTIONS.TELL_ME_A_RANDOM_FACT": "قل لي حقيقة عشوائية",
+    "FAKE_QUESTIONS.THE_LONGEST_TIME_YOUVE_EVER_GONE_WITHOUT_SHOWERING": "ما أطول مدة قضيتها دون استحمام؟",
+    "FAKE_QUESTIONS.THE_MOST_EMBARRASSING_THING_YOUVE_EVER_DONE": "ما أكثر شيء محرج فعلته على الإطلاق؟",
+    "FAKE_QUESTIONS.THE_WEIRDEST_PLACE_YOUVE_EVER_GONE_TO_THE_BATHROOM": "ما أغرب مكان ذهبت فيه إلى الحمام؟",
+    "FAKE_QUESTIONS.THE_WEIRDEST_THING_YOUVE_EVER_EATEN": "ما أغرب شيء أكلته على الإطلاق؟",
+    "FAKE_QUESTIONS.THE_WORST_ADVICE_YOUVE_EVER_GIVEN": "ما أسوأ نصيحة قدمتها على الإطلاق؟",
+    "FAKE_QUESTIONS.THE_WORST_DATE_YOUVE_EVER_BEEN_ON": "ما أسوأ موعد غرامي خرجت فيه على الإطلاق؟",
+    "FAKE_QUESTIONS.THE_WORST_FOOD_YOU_EVER_EATEN": "ما أسوأ طعام أكلته على الإطلاق؟",
+    "FAKE_QUESTIONS.THE_WORST_PICK_UP_LINE_YOUVE_EVER_HEARD": "ما أسوأ مقولة لجذب الانتباه سمعتها على الإطلاق؟",
+    "FAKE_QUESTIONS.THE_WORST_TROUBLE_YOU_GO_INTO_AS_A_KID": "ما أسوأ مشكلة وقعت فيها عندما كنت طفلاً؟",
+    "FAKE_QUESTIONS.U_BUSY_THIS_WEEKEND": "هل أنت مشغول في عطلة نهاية هذا الأسبوع؟",
+    "FAKE_QUESTIONS.UH_WHAT_DID_YOU_EAT_FOR_BREAKFAST": "ماذا أكلت على الفطور",
+    "FAKE_QUESTIONS.WE_SHOULD_TALK_MORE": "أرى أن نتحدث أكثر",
+    "FAKE_QUESTIONS.WHAT_ARE_UR_PLANS_THIS_WEEKEND": "ما خططك في عطلة نهاية هذا الأسبوع؟",
+    "FAKE_QUESTIONS.WHAT_ARE_YOU_WEARING": "ماذا ترتدي؟",
+    "FAKE_QUESTIONS.WHAT_COLOR_IS_YOUR_ROOM": "ما لون غرفتك؟",
+    "FAKE_QUESTIONS.WHAT_DID_YOU_DREAM_ABOUT_LAST_NIGHT": "بماذا حلمت الليلة الماضية؟",
+    "FAKE_QUESTIONS.WHAT_HAVE_YOU_GOTTEN_DETENTION_FOR": "ما سبب احتجازك؟",
+    "FAKE_QUESTIONS.WHAT_MUSIC_DO_YOU_LISTEN_TO": "ما نوع الموسيقى التي تستمع إليه",
+    "FAKE_QUESTIONS.WHAT_PHONE_DO_YOU_HAVE": "ما نوع هاتفك؟",
+    "FAKE_QUESTIONS.WHAT_TIME_DID_YOU_FALL_ASLEEP_LAST_NIGHT": "متى نمت الليلة الماضية؟",
+    "FAKE_QUESTIONS.WHAT_TIME_DO_YOU_USUALLY_GO_TO_BED": "متى تنام عادةً؟",
+    "FAKE_QUESTIONS.WHAT_WAS_THE_BEST_DAY_SO_FAR_THIS_YEAR": "ما أفضل يوم قضيته في هذا العام حتى الآن؟",
+    "FAKE_QUESTIONS.WHAT_WAS_UR_WORST_DAY_EVER": "ما أسوأ يوم قضيته على الإطلاق",
+    "FAKE_QUESTIONS.WHAT_WAS_YOUR_FAVORITE_SHOW_WHEN_YOU_WERE_A_KID": "ماذا كان برنامجك التلفزيوني المفضل عندما كنت طفلاً؟",
+    "FAKE_QUESTIONS.WHATS_IN_UR_SPOTIFY_TOP_SONGS": "ما أفضل الأغاني في حسابك على سبوتيفاي",
+    "FAKE_QUESTIONS.WHATS_THE_LAST_THING_YOU_ATE": "ما آخر شيء أكلته؟",
+    "FAKE_QUESTIONS.WHATS_THE_STUPIDEST_THING_YOU_THOUGHT_AS_A_KID": "ما أغبى أمر كنت تظنه صحيحاً عندما كنت طفلاً؟",
+    "FAKE_QUESTIONS.WHATS_UR_FAV_BOOK": "ما كتابك المفضل",
+    "FAKE_QUESTIONS.WHATS_UR_FAV_DRINK": "ما مشروبك المفضل",
+    "FAKE_QUESTIONS.WHATS_UR_FAV_FOOD": "ما طعامك المفضل",
+    "FAKE_QUESTIONS.WHATS_UR_FAV_MOVIE": "ما فيلمك المفضل",
+    "FAKE_QUESTIONS.WHATS_UR_FAV_SONG": "ما أغنيتك المفضلة",
+    "FAKE_QUESTIONS.WHATS_UR_FAV_TV_SHOW": "ما برنامجك التلفزيوني المفضل",
+    "FAKE_QUESTIONS.WHATS_UR_FAVORITE_FOOD": "ما طعامك المفضل؟",
+    "FAKE_QUESTIONS.WHATS_UR_ORITENATION": "ما توجهك الجنسي",
+    "FAKE_QUESTIONS.WHATS_YOUR_BIGGEST_INSECURITY": "ما أكثر ما يسبب لك شعوراً بعدم الأمان 🤔",
+    "FAKE_QUESTIONS.WHATS_YOUR_DREAM_HOUSE": "ما منزل أحلامك",
+    "FAKE_QUESTIONS.WHATS_YOUR_FAV_SPORT": "ما رياضتك المفضلة؟",
+    "FAKE_QUESTIONS.WHATS_YOUR_NUMBER_ONE_SONG_ON_SPOTIFY": "ما أغنيتك المفضلة على سبوتيفاي",
+    "FAKE_QUESTIONS.WHATS_YOUR_SIGN": "ما برجك",
+    "FAKE_QUESTIONS.WHEN_WAS_THE_LAST_TIME_YOU_CRIED": "متى بكيت آخر مرة؟",
+    "FAKE_QUESTIONS.WHEN_WAS_THE_LAST_TIME_YOU_LIED": "متى كذبت آخر مرة؟",
+    "FAKE_QUESTIONS.WHEN_WAS_THE_LAST_TIME_YOU_WET_THE_BED": "متى تبولت أخر مرة على السرير؟",
+    "FAKE_QUESTIONS.WHEN_WAS_YOUR_FIRST_KISS": "متى حظيت بأول قبلة؟",
+    "FAKE_QUESTIONS.WHERE_ARE_YOU_FROM": "ما أصلك...؟",
+    "FAKE_QUESTIONS.WHERE_ARE_YOUR_PARENTS_FROM": "ما أصول والديك؟",
+    "FAKE_QUESTIONS.WHO_ARE_YOUR_BEST_GIRL_FRIENDS": "من أفضل صديقاتك",
+    "FAKE_QUESTIONS.WHO_DO_YOU_HAVE_PINNED_ON_IMESSAGE": "من الذي تحتفظ باسمه مثبتاً في تطبيق imessage",
+    "FAKE_QUESTIONS.WHO_DO_YOU_MISS_THE_MOST": "من أكثر شخص تفتقده",
+    "FAKE_QUESTIONS.WHO_DO_YOU_TEXT_THE_MOST": "من أكثر شخص تراسله؟",
+    "FAKE_QUESTIONS.WHO_WAS_THE_LAST_DUDE_YOU_TEXTED": "من كان آخر رجل راسلته؟",
+    "FAKE_QUESTIONS.WHO_WAS_THE_LAST_GIRL_YOU_TEXTED": "من كانت آخر فتاة راسلتها؟",
+    "FAKE_QUESTIONS.WHO_WAS_YOUR_CRUSH_IN_MIDDLE_SCHOOL_LMAO": "لمن كنت تكِن إعجاباً في المدرسة الإعدادية (ضحك شديد)",
+    "FAKE_QUESTIONS.WHO_WAS_YOUR_FIRST_KISS": "من حاز بأول قبلة لك؟",
+    "FAKE_QUESTIONS.WHO_YOU_TRYNA_GET_WITH": "مع من تحاول إقامة علاقة 👀",
+    "FAKE_QUESTIONS.WHO_YOU_TRYNA_VOTE_FOR_IN_2024": "لمن ستصوّت في انتخابات عام 2024 👀",
+    "FAKE_QUESTIONS.WHOS_THE_LAST_PERSON_YOU_TEXTED": "من آخر شخص راسلته؟",
+    "FAKE_QUESTIONS.WHOS_UR_BEST_FRIEND": "من أفضل صديق لك",
+    "FAKE_QUESTIONS.WHOS_UR_CRUSH": "لمَن تكن إعجاباً؟",
+    "FAKE_QUESTIONS.WHOS_UR_WORST_ENEMY": "من ألد أعدائك 😈",
+    "FAKE_QUESTIONS.WHOS_YOUR_LAST_IG_SEARCH": "عمن كان آخر بحث لك على إنستغرام؟",
+    "FAKE_QUESTIONS.WHOS_YOUR_LAST_SNAP_FROM": "ممن كانت آخر رسالة على سناب شات؟",
+    "FAKE_QUESTIONS.WHY_DOESNT_MY_CRUSH_LIKE_ME_BACK": "لماذا لا يحبني الشخص الذي أكن له إعجاباً 😭",
+    "FAKE_QUESTIONS.WORST_MOVIE_YOUVE_EVER_WATCHED": "ما أسوأ فيلم شاهدته على الإطلاق؟",
+    "FAKE_QUESTIONS.WOULD_YOU_EVER_BE_FWB": "هل من الممكن أن تقيم علاقة عاطفية مع أقرب أصدقائك",
+    "FAKE_QUESTIONS.WOULD_YOU_EVER_GET_WITH_ME": "هل من الممكن أن تقيم علاقة معي؟ ~ N",
+    "FAKE_QUESTIONS.WOULD_YOU_LEAVE_YOUR_FOR_A_CELEB": "هل من الممكن أن تترك شريك/شريكة حياتك من أجل أحد المشاهير",
+    "FAKE_QUESTIONS.WOULD_YOU_SAY_YES_IF_I_ASKED_YOU_OUT": "هل توافق إذا طلبت منك الخروج معاً - A",
+    "FAKE_QUESTIONS.WYD": "ماذا تفعل",
+    "FAKE_QUESTIONS.WYD_TOMORROW": "ماذا تفعل غداً",
+    "FAKE_QUESTIONS.YO_STOP_LEAVING_ME_ON_READ": "كف عن ترك رسائلي دون رد بعد قراءتها",
+    "FAKE_QUESTIONS.YOU_A_HOMIE": "أنت صديق مقرّب",
+    "FAKE_QUESTIONS.YOU_EVER_THINK_ABOUT_HAVING_THE_ABILITY_TO_TELEPORT": "هل فكرت يوماً في امتلاك القدرة على الانتقال اللحظي؟",
+    "FAKE_QUESTIONS.YOU_GOT_A_SNEAKY_LINK": "هل تقيم علاقة مع أحد سراً؟",
+    "FAKE_QUESTIONS.YOU_HAVE_GOOD_STYLE": "أسلوبك لطيف",
+    "FAKE_QUESTIONS.YOU_LIT": "أنت رائع",
+    "FAKE_QUESTIONS.YOU_SHOULD_GET_A_TATTOO": "أرى أن ترسم وشماً",
+    "FAKE_QUESTIONS.YOU_SHOULD_POST_MORE_SELFIES": "أرى أن تنشر مزيداً من صور السيلفي 💕",
+    "FAKE_QUESTIONS.YOU_WILD_FOR_WHAT_YOU_DID": "يا لجرأة ما فعلت",
+    "FAKE_QUESTIONS.YOUR_BIGGEST_INSECURITY": "ما أكثر ما يسبب لك شعوراً بعدم الأمان؟",
+    "FAKE_QUESTIONS.YOUR_CELEB_CRUSH": "لمَن مِن المشاهير تُكن إعجاباً؟",
+    "FAKE_QUESTIONS.YOUR_FAVORITE_HOBBY": "ما هوايتك المفضلة؟",
+    "FAKE_QUESTIONS.YOUR_FAVORITE_PART_OF_YOUR_BODY": "ما أفضل جزء في جسمك في رأيك؟",
+    "FAKE_QUESTIONS.YOUR_LAST_SONG_ON_YOUR_SPOTIFY": "ما آخر أغنية سمعتها على سبوتيفاي؟",
+    "FAKE_QUESTIONS.YOUR_REALLY_ATTRACTIVE": "أنت جذاب جداً",
+    "FAKE_QUESTIONS.YOUR_WORST_HABIT": "ما أسوأ عادتك؟",
+    "FAKE_QUESTIONS.YOUR_WORST_PERSONALITY_CHARACTERISTIC": "ما أسوأ طباع شخصيتك؟",
+    "FAKE_QUESTIONS.YOURE_BEST_FRIEND": "أنت أفضل صديق",
+    "FAKE_QUESTIONS.YOURE_CUTE": "أنت لطيف",
+    "GAMES.PROMPTS.3WORDS": "صفني في 3 كلمات، دون الكشف عن هويتك",
+    "GAMES.PROMPTS.CONFESSIONS": "أرسل لي اعترافات دون الكشف عن هويتك",
+    "GAMES.PROMPTS.CRUSH": "أطلعني على من تُكن له/ا إعجاباً، دون الكشف عن هويتك",
+    "GAMES.PROMPTS.NEVER_HAVE_I_EVER": "أرسل لي رسالة تطلعني فيها على أمر لم تفعل أبداً، دون الكشف عن هويتك",
+    "GAMES.PROMPTS.THEY_ARE_A_10_BUT": "إنه/ا مثالي/مثالية لكن...",
+    "GENERAL.AND": "و",
+    "GENERAL.ARE_YOU_SURE": "هل أنت واثق؟",
+    "GENERAL.CANCEL": "إلغاء",
+    "GENERAL.CLOSE": "إغلاق",
+    "GENERAL.NO": "لا",
+    "GENERAL.SENT": "مرسل",
+    "GENERAL.SOMETHING_WENT_WRONG": "ثمة خطأ ما!",
+    "GENERAL.YES": "نعم",
+    "HOME.ANONYMOUSQ&A": "أسئلة وأجوبة مجهولة",
+    "HOME.INBOX_SCREEN.EMPTY.DESCRIPTION": "شارك رابطك لتتلقى أسئلة في صندوق الوارد!",
+    "HOME.INBOX_SCREEN.EMPTY.GET_MESSAGES": "تلق رسائل!",
+    "HOME.INBOX_SCREEN.EMPTY.TITLE": "صندوق الوارد فارغ",
+    "HOME.INBOX_SCREEN.NAME": "الرسائل",
+    "HOME.INBOX_SCREEN.PAYWALL_BUTTON": "من أرسل هذه الرسائل؟ 👀",
+    "HOME.INBOX_SCREEN.SENTWITHLOVE": "sent with ❤️ from team NGL",
+    "HOME.PLAY_SCREEN.NAME": "شارك",
+    "HOME.PLAY_SCREEN.STEP_ONE.ACTION": "تم نسخ الرابط!",
+    "HOME.PLAY_SCREEN.STEP_ONE.BUTTON": "انسخ الرابط",
+    "HOME.PLAY_SCREEN.STEP_ONE.TITLE": "الخطوة 1: انسخ رابطك",
+    "HOME.PLAY_SCREEN.STEP_TWO.BUTTON": "شارك!",
+    "HOME.PLAY_SCREEN.STEP_TWO.TITLE": "الخطوة 2: شارك الرابط في قصة لك على إنستغرام",
+    "HOME.PLAY_SCREEN.TITLE": "تلق رسائل دون الكشف عن هوية مرسلها!",
+    "HOME.PLAY_SCREEN.TUTORIAL.NEXT_STEP": "الخطوة التالية",
+    "HOME.PLAY_SCREEN.TUTORIAL.PROMPT1": "اضغط على الزر",
+    "HOME.PLAY_SCREEN.TUTORIAL.PROMPT2": "اضغط على الزر",
+    "HOME.PLAY_SCREEN.TUTORIAL.PROMPT3": "الصق رابطك!",
+    "HOME.PLAY_SCREEN.TUTORIAL.PROMPT4": "ضع إطاراً حول الرابط!",
+    "HOME.PLAY_SCREEN.TUTORIAL.SHARE_ON_FACEBOOK": "شارك على فيسبوك!",
+    "HOME.PLAY_SCREEN.TUTORIAL.SHARE_ON_INSTAGRAM": "شارك على إنستغرام!",
+    "HOME.PLAY_SCREEN.TUTORIAL.SHARE_ON_TWITTER": "شارك على تويتر!",
+    "HOME.PLAY_SCREEN.TUTORIAL.SNAPCHAT.SHARE": "شارك على سناب شات!",
+    "HOME.PLAY_SCREEN.TUTORIAL.SNAPCHAT.STEP1": "التقط صورة",
+    "HOME.PLAY_SCREEN.TUTORIAL.SNAPCHAT.STEP3": "انقر فوق \"إرفاق بمقطع snap\"",
+    "HOME.PLAY_SCREEN.TUTORIAL.SNAPCHAT.TITLE": "كيفية إضافة الرابط إلى قصة سناب شات الخاصة بك",
+    "HOME.PLAY_SCREEN.TUTORIAL.STEPS.FOUR.TITLE": "ضع إطاراً حول الرابط",
+    "HOME.PLAY_SCREEN.TUTORIAL.STEPS.ONE.TITLE.ONE": "اضغط على",
+    "HOME.PLAY_SCREEN.TUTORIAL.STEPS.ONE.TITLE.TWO": "الزر",
+    "HOME.PLAY_SCREEN.TUTORIAL.STEPS.THREE.TITLE": "الصق رابطك!",
+    "HOME.PLAY_SCREEN.TUTORIAL.STEPS.TWO.TITLE.ONE": "اضغط على",
+    "HOME.PLAY_SCREEN.TUTORIAL.STEPS.TWO.TITLE.TWO": "الملصق",
+    "HOME.PLAY_SCREEN.TUTORIAL.TITLE": "كيفية إضافة الرابط إلى قصتك",
+    "HOME.PLAY_SCREEN.TUTORIAL.TITLE.1": "أضف رابطًا إلى قصتك",
+    "HOME.PLAY_SCREEN.TUTORIAL.TITLE.FACEBOOK": "شارك رابط NGL الخاص بك على فيسبوك",
+    "HOME.PLAY_SCREEN.TUTORIAL.TITLE.TWITTER": "شارك رابطك على NGL على تويتر",
+    "HOME.PLAY_SCREEN.UPLOAD_PICTURE": "رفع صورة",
+    "INBOX.EMPTY_STATE.SUBTITLE": "شارك الرابط الخاص بك للحصول على الأسئلة في صندوق الرسائل الواردةالخاص بك!",
+    "INBOX.EMPTY_STATE.TITLE": "صندوق الرسائل الواردة فارغ",
+    "INBOX.GET_MESSAGES": "تلقي الرسائل!",
+    "INBOX.NOTIFICATION_BANNER.SUBTITLE": "تلقي إشعارات عند تلقي رسائل جديدة",
+    "INBOX.NOTIFICATION_BANNER.TITLE": "تشغيل الإشعارات 🔔",
+    "LIST_INBOX.NEW_MESSAGE": "رسالة جديدة",
+    "ONBOARDING.AGE_STEP.CONFIRMATION": "يجب أن يكون عمرك 13 عامًا على الأقل لاستخدام NGL",
+    "ONBOARDING.AGE_STEP.TITLE": "كم عمرك؟",
+    "ONBOARDING.BUTTON.SKIP": "تخطي",
+    "ONBOARDING.CHOOSE_A_USERNAME": "اختيار اسم المستخدم",
+    "ONBOARDING.FIRST_STEP.BUTTON": "ابدأ!",
+    "ONBOARDING.FIRST_STEP.TERMS_PRIVACY.FOUR": "سياسة الخصوصية",
+    "ONBOARDING.FIRST_STEP.TERMS_PRIVACY.ONE": "متابعتك تعني موافقتك على",
+    "ONBOARDING.FIRST_STEP.TERMS_PRIVACY.THREE": "وأنك قد قرأت ووافقت على",
+    "ONBOARDING.FIRST_STEP.TERMS_PRIVACY.TWO": "شروط الاستخدام",
+    "ONBOARDING.FIRST_STEP.TITLE": "تلق رسائل على إنستغرام دون الكشف عن هوية مرسلها!",
+    "ONBOARDING.PICTURE_STEP.BUTTON": "اختر صورة",
+    "ONBOARDING.PICTURE_STEP.SUBTITLE": "سيرى أصدقاؤك هذه الصورة عندما يزورون الرابط الخاص بك",
+    "ONBOARDING.PICTURE_STEP.TITLE": "اختر صورة الملف الشخصي",
+    "ONBOARDING.PLATFORM_STEP.SUBTITLE": "يمكنك تغيير هذا لاحقًا!",
+    "ONBOARDING.PLATFORM_STEP.TITLE": "أين تريد استخدام NGL؟",
+    "ONBOARDING.SECOND_STEP.BUTTON": "تم!",
+    "ONBOARDING.SECOND_STEP.TITLE": "ما اسمك على إنستغرام؟",
+    "ONBOARDING.SECOND_STEP.TITLE1": "ماهو لك",
+    "ONBOARDING.SECOND_STEP.TITLE3": "اسم المستخدم؟",
+    "ONBOARDING.USERNAME_STEP.BUTTON": "يكمل",
+    "ONBOARDING.USERNAME_STEP.TITLE": "اختر اسم مستخدم",
+    "PROMPTS.ASK_ME_ANYTHING": "اسألني عن أي أمر دون الكشف عن هويتك",
+    "PROMPTS.DROP_NAME_TBH": "اكتب اسماً لاستخدامه في مقولة صادقة",
+    "PROMPTS.FLOOD_MY_INBOX": "أمطر صندوقي الوارد بالرسائل إذا كنت حقيقياً",
+    "PROMPTS.SEND_ME_ANONYMOUS_COMPLIMENTS": "أرسل لي مجاملات دون الكشف عن هويتك!",
+    "PROMPTS.SEND_ME_ANONYMOUS_MESSAGES": "أرسل لي رسائل دون الكشف عن هويتك!",
+    "PROMPTS.SEND_NAME_RATE": "أرسل اسماً لاستخدامه في تقييمي",
+    "PROMPTS.TELL_ME_WHAT_YOU_THINK_ABOUT_ME": "أطلعني على رأيك فيّ بصدق!",
+    "PROMPTS.TRUTH_OR_DARE": "الصراحة أم التحدي، سأفعلها بكل جدية",
+    "QUESTION.HINTS.ACTIVITY": "النشاط",
+    "QUESTION.HINTS.CARRIER": "شركة خدمات الهاتف المحمول/مزوّد خدمة الإنترنت",
+    "QUESTION.HINTS.COUNTRY": "البلد",
+    "QUESTION.HINTS.DESCRIPTION": "تلميحات حول مرسل هذه الرسالة",
+    "QUESTION.HINTS.FRIENDS": "أصدقائهم",
+    "QUESTION.HINTS.FRIENDS_TITLE": "الأصدقاء",
+    "QUESTION.HINTS.HINTS_NOT_AVAILABLE": "hints are not available for",
+    "QUESTION.HINTS.LOCATION.DESCRIPTION": "قرب",
+    "QUESTION.HINTS.LOCATION.TITLE": "الموقع",
+    "QUESTION.HINTS.LOVE_MESSAGES": "NGL love messages ❤️",
+    "QUESTION.HINTS.NGL_ID": "معرف تطبيق ngl",
+    "QUESTION.HINTS.PHONE": "الهاتف",
+    "QUESTION.HINTS.PROFILE": "الملف الشخصي",
+    "QUESTION.HINTS.QUESTIONS": "أسئلة حول التلميحات",
+    "QUESTION.HINTS.REPORT_USER": "تقرير المستخدم",
+    "QUESTION.HINTS.REVIEW.ANOTHER": "اكتب مراجعة أخرى؟",
+    "QUESTION.HINTS.REVIEW.ANOTHER.DESCRIPTION": "لن يتم حذف مراجعتك السابقة",
+    "QUESTION.HINTS.REVIEW.FEEDBACK": "شكراً على ملاحظاتك",
+    "QUESTION.HINTS.REVIEW.NEW": "اكتب مراجعة جديدة",
+    "QUESTION.HINTS.REVIEW.WRITE": "اكتب مراجعة",
+    "QUESTION.HINTS.TIME.DESCRIPTION": "تم الإرسال في الساعة",
+    "QUESTION.HINTS.TIME.TITLE": "وقت الإرسال",
+    "QUESTION.HINTS.TITLE": "تلميحات الرسالة",
+    "QUESTION.HINTS.WRITE_REVIEW": "اكتب مراجعة لـ NGL",
+    "QUESTION.PAYWALL_BUTTON": "مرسل هذا",
+    "QUESTION.PAYWALL.DESCRIPTION": "يمكن لأعضاء الاشتراك الاحترافي رؤية تلميحات حصرية على كل رسالة",
+    "QUESTION.PAYWALL.RENEWAL.ONE": "يُجدد الاشتراك الاحترافي بسعر",
+    "QUESTION.PAYWALL.RENEWAL.PRIVACY": "الخصوصية",
+    "QUESTION.PAYWALL.RENEWAL.TERMS": "الشروط",
+    "QUESTION.PAYWALL.RENEWAL.TWO": "أسبوعياً.",
+    "QUESTION.PAYWALL.RESTORE": "استرجاع",
+    "QUESTION.PAYWALL.TITLE": "من أرسل هذا؟",
+    "QUESTION.PAYWALL.UNLOCK": "فتح",
+    "QUESTION.REPLY": "رد",
+    "QUESTION.REPORT.MODAL.ACTION": "إبلاغ",
+    "QUESTION.REPORT.STEP_ONE.BULLYING": "تنمر أو تحرش",
+    "QUESTION.REPORT.STEP_ONE.DONT_LIKE_IT": "لا تعجبني فحسب",
+    "QUESTION.REPORT.STEP_ONE.SPAM": "رسالة مزعجة",
+    "QUESTION.REPORT.STEP_TWO.BLOCK_USER": "حظر المستخدم",
+    "QUESTION.REPORT.STEP_TWO.DELETE_MESSAGE": "حذف رسالة",
+    "QUESTION.REPORT.STEP_TWO.TELL_TEAM": "أبلغ فريق تطبيق NGL",
+    "QUESTION.REPORT.TITLE": "لماذا تقوم بالتبليغ عن هذا السؤال؟",
+    "QUESTION.SAVE": "حفظ",
+    "REENGAGEMENT.FRIDAY18": "تلق مزيداً من الرسائل 🥰",
+    "REENGAGEMENT.MONDAY17": "تلق رسائل دون الكشف عن هوية مرسلها🤫",
+    "REENGAGEMENT.MONDAY18": "رسائل جديدة 🧡",
+    "REENGAGEMENT.SATURDAY18": "شارك رابطك 😇",
+    "REENGAGEMENT.SUBTEXT.FRIDAY18": "شارك رابطك!",
+    "REENGAGEMENT.SUBTEXT.MONDAY17": "اضغط الآن!",
+    "REENGAGEMENT.SUBTEXT.MONDAY18": "اضغط هنا!",
+    "REENGAGEMENT.SUBTEXT.SATURDAY18": "اضغط الآن!",
+    "REENGAGEMENT.SUBTEXT.SUNDAY17": "اضغط هنا!",
+    "REENGAGEMENT.SUBTEXT.SUNDAY18": "اضغط هنا!",
+    "REENGAGEMENT.SUBTEXT.THURSDAY18": "اضغط هنا!",
+    "REENGAGEMENT.SUBTEXT.TUESDAY18": "اضغط الآن!",
+    "REENGAGEMENT.SUBTEXT.WEDNESDAY18": "اضغط هنا!",
+    "REENGAGEMENT.SUNDAY17": "تلق رسائل دون الكشف عن هوية مرسلها 💌",
+    "REENGAGEMENT.SUNDAY18": "رسائل جديدة ✌️",
+    "REENGAGEMENT.THURSDAY18": "رسائل جديدة 😜",
+    "REENGAGEMENT.TUESDAY18": "هل تود تلقي مزيداً من الرسائل؟ 💌",
+    "REENGAGEMENT.WEDNESDAY18": "شارك رابطك 😛",
+    "SETTINGS.DELETE": "حذف الحساب",
+    "SETTINGS.DELETE_MODAL.BUTTON": "حذف",
+    "SETTINGS.DELETE_MODAL.DESCRIPTION": "إذا حذفت حسابك، فستفقد إمكانية الوصول إلى اسم المستخدم وجميع الأسئلة",
+    "SETTINGS.DELETE.CONFIRMATION": "نعم، حذف الحساب",
+    "SETTINGS.DELETE.CONFIRMATION.TITLE": "هل أنت متأكد؟",
+    "SETTINGS.FOLLOW": "تابعنا على IG️",
+    "SETTINGS.HELP": "أحتاج إلى مساعدة",
+    "SETTINGS.SHARE": "كيفية مشاركة الرابط",
+    "SETTINGS.TITLE": "الإعدادات",
+    "SETTINGS.TUTORIAL.MODAL.GOT.IT": "فهمتك!",
+    "SETTINGS.WHAT_IS_NGL.DESCRIPTION": "يتيح لك تطبيق NGL طريقة ممتعة لتلقي رسائل من أصدقائك دون الكشف عن هويتهم",
+    "SETTINGS.WHAT_IS_NGL.TITLE": "ما تطبيق NGL؟",
+    "SETTINGS.WHO_IT_WORKS.DESCRIPTION.ONE": "يمكنك تلقي رسائل بمشاركة رابطك على تطبيق NGL في قصتك أو إضافته إلى سيرتك الذاتية",
+    "SETTINGS.WHO_IT_WORKS.DESCRIPTION.TWO": "يمكنك مشاركة الرابط في أي مكان على الإنترنت!",
+    "SETTINGS.WHO_IT_WORKS.TITLE": "كيف يعمل التطبيق؟",
+    "SNAPCHAT.REPLY.OPEN": "افتح سناب شات",
+    "SNAPCHAT.REPLY.STEP2": "الخطوة 2: قم بالتحميل والرد في سناب شات!",
+    "TWITTER.REPLY.OPEN": "افتح تويتر",
+    "TWITTER.REPLY.SAVE": "حفظ",
+    "TWITTER.REPLY.SAVED": "تم الحفظ",
+    "TWITTER.REPLY.STEP1": "الخطوة 1: قم بالحفظ في ألبوم الكاميرا",
+    "TWITTER.REPLY.STEP2": "الخطوة 2: قم بالتحميل والرد في تويتر!"
+}
